@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/apurva39](https://github.com/apurva39)
 
-- 📫 How to reach me **apurvaanand101@gmail.com, +91-8340776554**
+- 📫 How to reach me **apurvaanand101@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/apurva-anand-01b33b227/overlay/1635514613416/single-media-viewer/?profileId=ACoAADjTEVcBa18mbjYw-_jwCRoEefCriekVXQ0](https://www.linkedin.com/in/apurva-anand-01b33b227/overlay/1635514613416/single-media-viewer/?profileId=ACoAADjTEVcBa18mbjYw-_jwCRoEefCriekVXQ0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/apurva-anand-01b33b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apurva-anand-01b33b227/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/apurva-anand-01b33b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apurva-anand-01b33b227/" height="50" width="60" /></a>
 <a href="https://instagram.com/a.anand39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.anand39" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/apurva39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="apurva39" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/apurvaanand101?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/apurvaanand101?hr_r=1" height="30" width="40" /></a>
