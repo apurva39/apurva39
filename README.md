@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **Android Studio, Firebase, DSA in C++, C#, MySQL**
+- 🌱 I’m currently learning **JavaScript, Android Studio, Firebase, DSA in C++, C#, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apurva39](https://github.com/apurva39)
 
