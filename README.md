@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm APURVA ANAND</h1>
-<h3 align="center">A passionate Android App Developer with experience in Flutter with Dart as well as Competitive Programmer.</h3>
+<h3 align="center">A passionate Developer with experience in Python with Streamlit as well as Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurva39&label=Profile%20views&color=0e75b6&style=flat" alt="apurva39" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **JavaScript, Android Studio, Firebase, DSA in C++, C#, MySQL**
+- 🌱 I’m currently learning **Python, Streamlit, Pandas,React, DSA in C++, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apurva39](https://github.com/apurva39)
 
