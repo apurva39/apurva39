@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm APURVA ANAND</h1>
-<h3 align="center">A passionate Developer with experience in Python with Streamlit as well as Competitive Programmer.</h3>
+<h3 align="center">A passionate Developer with experience in ReactJS, Python with Streamlit as well as Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurva39&label=Profile%20views&color=0e75b6&style=flat" alt="apurva39" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurva39" alt="apurva39" /></a> </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **Job Post Portal**
 
-- 🌱 I’m currently learning **Python, Streamlit, Pandas,React, DSA in C++, MySQL**
+- 🌱 I’m currently learning **Python, ReactJS, DSA in C++, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apurva39](https://github.com/apurva39)
 
